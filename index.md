@@ -1,4 +1,4 @@
-Un étudiant en physique, qui réécrit ses fiches en LaTeX parce qu'il a une écriture de sagouin.
+Un étudiant en physique, qui réécrit ses fiches en $\LaTeX$ parce qu'il a une écriture de sagouin.
 
 ## Physique
 
