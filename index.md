@@ -2,6 +2,8 @@ Un étudiant en physique, qui réécrit ses fiches en $\LaTeX$ parce qu'il a une
 
 ## Physique
 
+- Incertitude de la mesure, et approximation à l'ordre un [[Voir]](https://github.com/atomicwelding/fiches/blob/master/phys/incertitude_mesure.pdf)
+
 - Thermodynamique
     - Retrouver la relation entre pression, température et énergie cinétique, sur un modèle de sphères élastiques [[Voir]](https://github.com/atomicwelding/fiches/blob/master/thermodynamique/modele_gas_echelle_microscopique.pdf)
     - Estimer la vitesse d'effusion d'un gaz [[Voir]](https://github.com/atomicwelding/fiches/blob/master/thermodynamique/vitesse_effusion.pdf)
