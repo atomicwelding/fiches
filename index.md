@@ -2,6 +2,8 @@ Un étudiant en physique, qui réécrit ses fiches en $\LaTeX$ parce qu'il a une
 
 ## Physique
 
+- Nobel Prize : Alain Aspect - a (very) short tour of quantum entanglement [[Voir]](https://github.com/atomicwelding/fiches/blob/master/phys/nobel_prize_alain_aspect.pdf)
+
 - Incertitude de la mesure, et approximation à l'ordre un [[Voir]](https://github.com/atomicwelding/fiches/blob/master/phys/incertitude_mesure.pdf)
 
 - Thermodynamique
